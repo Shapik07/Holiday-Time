@@ -1,0 +1,19 @@
+.page-header {
+    background-color: #202846;
+    display: flex;
+}
+
+.logo-link {
+height: 70px;
+}
+
+.site-nav {
+    list-style: none;
+    display: flex;
+    height: 90px;
+}
+
+.site-nav__item a {
+    color: #FFFFFF;
+    text-decoration: none;
+}
