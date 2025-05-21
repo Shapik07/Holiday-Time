@@ -4,6 +4,10 @@
     box-sizing: border-box;
 }
 
+body {
+  font-family: 'PT Sans', sans-serif;
+}
+
 .page-header {
     align-items: center;
     height: 90px;
